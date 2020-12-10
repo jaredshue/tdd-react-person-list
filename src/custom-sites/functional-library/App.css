@@ -1,0 +1,17 @@
+.app {
+    display: flex;
+    justify-content: center;
+}
+
+.book-list {
+    list-style: none;
+}
+
+.book-list .book {
+    display: flex;
+    flex-direction: row;
+}
+
+.book-list .book img {
+    margin: 0.5%;
+}
